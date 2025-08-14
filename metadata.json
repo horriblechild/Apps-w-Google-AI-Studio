@@ -1,0 +1,5 @@
+{
+  "name": "Eternal Card Forge",
+  "description": "An application that uses Gemini and Imagen to generate unique, new cards for the digital card game Eternal. Provide a theme and watch as AI creates the card's name, stats, abilities, and artwork.",
+  "requestFramePermissions": []
+}
